@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Codeigniter Codeintel Helper",
+		"GitGutter",
+		"Package Control",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
