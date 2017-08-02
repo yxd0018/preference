@@ -1,0 +1,12 @@
+-server
+-ea
+-Xms256m
+-Xmx700m
+-XX:+UseG1GC
+-XX:ReservedCodeCacheSize=196m
+-XX:SoftRefLRUPolicyMSPerMB=50
+-XX:-OmitStackTraceInFastThrow
+-Dsun.io.useCanonCaches=false
+-Dsun.awt.keepWorkingSetOnMinimize=true
+-Dsun.java2d.ddoffscreen=false
+-Djava.net.preferIPv4Stack=true
